@@ -1,5 +1,7 @@
 # Sobre mí 
 
+Bienvenido
+
 El motivo de esta página es educativo. Actualmente estoy cursando un C.F.G.S (Ciclo Formativo de Grado Superior) 
 en IES Gonzalo Nazareno. 
 Para la realización de esta página he usado la herramienta **Mkdocs**, una herramienta de generación de sitios 
